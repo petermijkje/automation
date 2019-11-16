@@ -1,0 +1,16 @@
+{
+  "name": "flight_picker",
+  "version": "1.0.0",
+  "description": "choose destination and web scrape following flights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Sarll",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "nightmare": "^3.0.2",
+    "nodemailer": "^6.3.1"
+  }
+}
